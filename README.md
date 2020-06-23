@@ -8,7 +8,7 @@ Cloud computing o computación en la nube hace referencia al acceso y almacenami
 
 Google Cloud Platform (GCP) es una oferta o servicio de nube pública de Google comparable a Amazon Web Services y Microsoft Azure. La diferencia es que GCP se basa en la infraestructura masiva y vanguardista de Google que maneja el tráfico y la carga de trabajo de todos los usuarios de Google. Como tal, GCP ha tratado de conseguir a numerosos clientes que necesitan ser operativos a una escala global enorme, como Coca-Cola y Niantic (creadores de Pokémon Go) en la que Google le ayudó a escalar 50x su tráfico esperado en tan solo unos días después del lanzamiento del juego (Google Cloud,2020).
 
-![](https://github.com/EvelinHidalgo/GOOGLE-CLOUD/blob/master/img/img1.png)
+**![](https://github.com/EvelinHidalgo/GOOGLE-CLOUD/blob/master/img/img1.png)**
 
 Sus principales ventajas son:
 
@@ -48,23 +48,23 @@ Una máquina virtual es un software que crea una capa independiente donde se emu
 1.Ingresar en la página principal de Google Cloud, link: https://cloud.google.com/?hl=es.
 Click en comenzar gratis.
 
-![](https://github.com/EvelinHidalgo/GOOGLE-CLOUD/blob/master/img/img2.png)
+**![](https://github.com/EvelinHidalgo/GOOGLE-CLOUD/blob/master/img/img2.png)**
 
 2.Se procede a crear o vincular con la cuenta del usuario y a llenar todas las celdas de verificación para crear una cuenta gratis en Google Cloud
-![](https://github.com/EvelinHidalgo/GOOGLE-CLOUD/blob/master/img/img3.png)
-![](https://github.com/EvelinHidalgo/GOOGLE-CLOUD/blob/master/img/img4.png)
-![](https://github.com/EvelinHidalgo/GOOGLE-CLOUD/blob/master/img/img6.png)
+**![](https://github.com/EvelinHidalgo/GOOGLE-CLOUD/blob/master/img/img3.png)**
+**![](https://github.com/EvelinHidalgo/GOOGLE-CLOUD/blob/master/img/img4.png)**
+**![](https://github.com/EvelinHidalgo/GOOGLE-CLOUD/blob/master/img/img6.png)**
 
 3.Ya creada la cuenta gratuita,click en activar 
 
-![](https://github.com/EvelinHidalgo/GOOGLE-CLOUD/blob/master/img/img7.png)
+**![](https://github.com/EvelinHidalgo/GOOGLE-CLOUD/blob/master/img/img7.png)**
 
 4.Ya obtenida y activada la cuenta de Google Cloud se procede a la creación de una máquina virtual. Click en la parte izquierda superior en el siguiente ícono. 
 Click en Compute Engine e instancias de VM
-![](https://github.com/EvelinHidalgo/GOOGLE-CLOUD/blob/master/img/img8.png)
+**![](https://github.com/EvelinHidalgo/GOOGLE-CLOUD/blob/master/img/img8.png)**
 
 5.Click en Crear.
-![](https://github.com/EvelinHidalgo/GOOGLE-CLOUD/blob/master/img/img9.png)
+**![](https://github.com/EvelinHidalgo/GOOGLE-CLOUD/blob/master/img/img9.png)**
 
 6. Se abrirá una nueva ventana para configurar la máquina virtual a escoger,tomando en cuenta que el usuario tiene libre albedrío de configurar la máquina a su deseo y necesidades.
 
@@ -74,33 +74,33 @@ Click en Compute Engine e instancias de VM
 
 6.3 Definir el tipo de máquina o se creará esta sección con parámetros por defecto 1 CPU virtual y 3.75GB de memoria RAM.
 
-![](https://github.com/EvelinHidalgo/GOOGLE-CLOUD/blob/master/img/img10.png)
+**![](https://github.com/EvelinHidalgo/GOOGLE-CLOUD/blob/master/img/img10.png)**
 
 7. Se abrirá una nueva ventana  al dar click en el disco de arranque, donde el usuario puede escoger el Sistema Operativo en este caso para ejemplificar Windows Server, la versión 2016 Datacenter con un disco persistente estándar de 50 GB.
-![](https://github.com/EvelinHidalgo/GOOGLE-CLOUD/blob/master/img/img11.png)
+**![](https://github.com/EvelinHidalgo/GOOGLE-CLOUD/blob/master/img/img11.png)**
 
 8.En identidad y acceso a la API , permitir el acceso predeterminado,tráfico HTTP y tráfico HTTPS.Click en  crear.
-![](https://github.com/EvelinHidalgo/GOOGLE-CLOUD/blob/master/img/img12.png)
-![](https://github.com/EvelinHidalgo/GOOGLE-CLOUD/blob/master/img/img13.png)
+**![](https://github.com/EvelinHidalgo/GOOGLE-CLOUD/blob/master/img/img12.png)**
+**![](https://github.com/EvelinHidalgo/GOOGLE-CLOUD/blob/master/img/img13.png)**
 
 9.Ya creada la máquina virtual, click en RDP ,se abrirá una ventana e instalar la extesión RDP de Chrome.
-![](https://github.com/EvelinHidalgo/GOOGLE-CLOUD/blob/master/img/img14.png)
+**![](https://github.com/EvelinHidalgo/GOOGLE-CLOUD/blob/master/img/img14.png)**
 
 10.En la nueva ventana click en agregar a Chrome.
-![](https://github.com/EvelinHidalgo/GOOGLE-CLOUD/blob/master/img/img15.jpg)
+**![](https://github.com/EvelinHidalgo/GOOGLE-CLOUD/blob/master/img/img15.jpg)**
 
 11.Se abrirá un recuadro donde se escribirá el nombre de usuario, click en establecer.
-![](https://github.com/EvelinHidalgo/GOOGLE-CLOUD/blob/master/img/img16.png)
+**![](https://github.com/EvelinHidalgo/GOOGLE-CLOUD/blob/master/img/img16.png)**
 
 12. Se abrirá un recuadro donde Google Cloud proporciona una contraseña para Windows Server, copiar dicha contraseña.
-![](https://github.com/EvelinHidalgo/GOOGLE-CLOUD/blob/master/img/img17.png)
+**![](https://github.com/EvelinHidalgo/GOOGLE-CLOUD/blob/master/img/img17.png)**
 
 13.En la ventana de Chrome RDP , pegar la contraseña y dar click en OK.
-![](https://github.com/EvelinHidalgo/GOOGLE-CLOUD/blob/master/img/img18.png)
+**![](https://github.com/EvelinHidalgo/GOOGLE-CLOUD/blob/master/img/img18.png)**
 
 14. Finalmente se abrirá la máquina virtual Windows Server 2016
-![](https://github.com/EvelinHidalgo/GOOGLE-CLOUD/blob/master/img/img19.png)
-![](https://github.com/EvelinHidalgo/GOOGLE-CLOUD/blob/master/img/img20.png)
+**![](https://github.com/EvelinHidalgo/GOOGLE-CLOUD/blob/master/img/img19.png)**
+**![](https://github.com/EvelinHidalgo/GOOGLE-CLOUD/blob/master/img/img20.png)**
 
 **BIBLIOGRAFÍA**
 
